@@ -1,0 +1,18 @@
+body{
+    margin: 0px 200px;
+    padding: 20px;
+    border: white;
+    border-style: solid;
+    background-color: black;
+    color: aliceblue;
+}
+html {
+    font-size: 22px;
+}
+
+th, td, caption {
+    border: 1px solid #333;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: separate;
+    padding: 0.5rem;
+}
